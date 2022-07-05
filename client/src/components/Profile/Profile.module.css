@@ -1,0 +1,12 @@
+.container {
+    /* border: 5px solid black; */
+    background-color: rgb(223, 115, 226);
+    width: 100%;
+    height: 100vh;
+}
+
+.widgetContainer {
+    display: flex;
+    width: 100%;
+
+}
